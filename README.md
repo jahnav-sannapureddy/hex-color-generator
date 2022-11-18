@@ -1,7 +1,7 @@
 # hex-color-generator
 The background color of the body will be set to an random color by clicking on 'Generate' button.
 
-Live demo: https://www.jahnav-sannapureddy.github.io/hex-color-generator
+Live demo: https://jahnav-sannapureddy.github.io/hex-color-generator/
 
 Some of the topics explored in this project:
 - array
